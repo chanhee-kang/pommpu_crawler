@@ -99,10 +99,10 @@ class MainHandler :
     def run(self):
         self.setEnv()
 
-        keyword = "배달의민족 김봉진"
-        endYear = 2018
-        endMonth = 6
-        endDay = 30
+        keyword = ""
+        endYear = 
+        endMonth = 
+        endDay = 
 
         endDate = int(str(endYear) + str(endMonth).zfill(2) + str(endDay).zfill(2))
 
