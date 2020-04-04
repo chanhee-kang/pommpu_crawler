@@ -8,7 +8,7 @@ http://www.ppomppu.co.kr/search_bbs.php
 Python 3 버젼으로 구축되어있습니다. 파이썬 기본환경을 세팅해 주십시오.<br><br>
 download zip 혹은 git clone을 사용해 해당 파일을 다운로드 해주십시오.
 ```
-$git clone https://github.com/ck992/pommpu_crawler.git
+$git clone https://github.com/chanhee-kang/pommpu_crawler.git
 ```
 
 ### 실행
